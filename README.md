@@ -3,7 +3,7 @@
 </div>
 
 
-## Olá, eu me chamo Arthur!
+## Arthur Bauer Cardoso
 
 Graduando em Tecnologias da Informação e Comunicação pela UFSC e técnico em Informática para Internet pelo IFC, tenho experiência no desenvolvimento e gerenciamento de sistemas, com ênfase em soluções digitais que unem eficiência, organização e boas práticas de programação. Busco continuamente aprimorar minhas habilidades por meio de projetos que exploram inovação tecnológica, análise de dados e desenvolvimento de software voltado à transformação digital.
 
